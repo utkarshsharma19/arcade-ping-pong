@@ -2,7 +2,7 @@ import java.awt.*;
 import java.util.*;
 
 public class Ball extends Rectangle{
-
+//arcade game
 	Random random;
 	int xVelocity;
 	int yVelocity;
